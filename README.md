@@ -28,3 +28,4 @@ SI = (10000 × 5 × 2) / 100
 
 ## Conclusion
 The Simple Interest Calculator is a useful tool for calculating interest on a principal amount using a simple mathematical formula.
+This project demonstrates a simple interest calculation.
